@@ -41,15 +41,18 @@ To be able to run the code and reproduce the results, please follow these steps:
 1. Clone this repository. Run this command in your prompt/shell:
 ```git clone https://github.com/epicalyx/MIDAS-IIITD-Internship-Task.git```
 
-2. Create an environment using "environment_ser.yml" file. Run this command:
+2. Navigate to the folder
+``` cd MIDAS-IIITD-Internship-Task\SPEECH EMOTION PROBLEM```
+
+3. Create an environment using "environment_ser.yml" file. Run this command:
 ```conda env create -f environment_ser.yml```
 
 Now, an environment will be created and all the dependencies will be loaded.
 
-3. Activate it by running:
+4. Activate it by running:
 ```conda activate sep```
 
-4. To test the model, please make sure all the weight files and test data are present in your system and then run"
+5. To test the model, please make sure all the weight files and test data are present in your system and then run"
 ```python test.py```
 
 **Option B**
