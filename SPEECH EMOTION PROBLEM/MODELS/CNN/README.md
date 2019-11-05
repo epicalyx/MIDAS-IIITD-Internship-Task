@@ -1,1 +1,1 @@
-FOLDER
+Weight File for CNN model
