@@ -16,7 +16,7 @@ DATA SOURCE
 The dataset taken here is "MELD - A Multimodal Multi-Party Dataset"
 It can be found here: https://github.com/SenticNet/MELD
 
-It contains audio files and ahs 5 emotion labels, namely, DISGUST, FEAR, HAPPY, NEUTRAL and SAD.
+It contains audio files and has 5 emotion labels, namely, DISGUST, FEAR, HAPPY, NEUTRAL and SAD.
 
 
 DIRECTORY STRUCTURE
