@@ -36,18 +36,18 @@ To be able to run the code and reproduce the results, please follow these steps:
 
 Option A
 1. Clone this repository. Run this command in your prompt/shell:
-git clone https://github.com/epicalyx/MIDAS-IIITD-Internship-Task.git
+- git clone https://github.com/epicalyx/MIDAS-IIITD-Internship-Task.git
 
 2. Create an environment using "environment_ser.yml" file. Run this command:
-conda env create -f environment_ser.yml
+- conda env create -f environment_ser.yml
 
 Now, an environment will be created and all the dependencies will be loaded.
 
 3. Activate it by running:
-conda activate sep
+- conda activate sep
 
-4. To test the model, please make sure all the weight files and test data are present in your system and then run"
-python test.py
+4. To test the model, please make sure all the weight files and test data are present in your system and then run:
+- python test.py
 
 Option B
 1. To clone the repository, create an environment and setup project dependencies run:
