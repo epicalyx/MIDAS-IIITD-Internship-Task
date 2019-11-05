@@ -11,6 +11,8 @@ Acoustic Features consists of parameters like pitch, tone, volume etc, while con
 
 Here, acoustic features are being used. 
 
+![SEP](https://github.com/epicalyx/MIDAS-IIITD-Internship-Task/blob/master/SPEECH%20EMOTION%20PROBLEM/intro.png)
+
 
 ### DATA SOURCE
 
