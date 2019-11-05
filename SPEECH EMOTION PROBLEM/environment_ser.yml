@@ -1,16 +1,16 @@
 name: sep
 
 dependencies:
-  - numpy=1.9
+  - numpy=1.17.2
   - python=3.7
-  - matplotlib=2.2.* 
-  - pandas=0.25.*
-  - librosa=0.6.*
+  - matplotlib=2.2.4
+  - pandas=0.25.1
+  - librosa=0.6.3
   - jupyter=1.0
-  - tensorflow=1.13.*
-  - keras=2.2.*
-  - scikit-learn=0.20.*
-  - h5py=2.10
+  - tensorflow=1.13.2
+  - keras=2.2.4
+  - scikit-learn=0.20.4
+  - h5py=2.10.0
   - jsonpickle=1.2
   
   
