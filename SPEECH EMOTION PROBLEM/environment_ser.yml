@@ -1,7 +1,6 @@
 name: sep
 
 dependencies:
-  - numpy=1.17.2
   - python=3.7
   - matplotlib=2.2.4
   - pandas=0.25.1
